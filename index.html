@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="src/css/style.css">
+    <link rel="shortcut icon" href="src/imagens/ico.png" type="Icone">
+</head>
+<body>
+    <div id="calculator">
+        <div id="display">
+            <div id="last-calc"><p id="last-calc"></p></div>
+            <div class="result"><img src="assets/equals.svg" alt="Igual"><span><p id="result"></p></span></div>
+        </div>
+        <div id="keyboard">
+            <tr>
+            <td><button class="secondary" onclick="back()"><img src="assets/backspace.svg" alt=""></button></td>
+            <td><button onclick="clean()">C</button></td>
+            <td><button onclick="calculatePercentage()"><img src="assets/percet.svg" alt="Porcentagem"></button></td>
+            <td><button class="tertiary" onclick="insert('÷')"><img src="assets/divide.svg" alt="Dividir"></button></td>
+            <td><button onclick="insert('7')">7</button></td>
+            <td><button onclick="insert('8')">8</button></td>
+            <td><button onclick="insert('9')">9</button></td>
+            <td><button class="tertiary" onclick="insert('x')"><img src="assets/x.svg" alt="Multiplicação"></button></td>
+            <td><button onclick="insert('4')">4</button></td>
+            <td><button onclick="insert('5')">5</button></td>
+            <td><button onclick="insert('6')">6</button></td>
+            <td><button class="tertiary" onclick="insert('-')"><img src="assets/minus.svg" alt="Menos"></button></td>
+            <td><button onclick="insert('1')">1</button></td>
+            <td><button onclick="insert('2')">2</button></td>
+            <td><button onclick="insert('3')">3</button></td>
+            <td><button class="tertiary" onclick="insert('+')"><img src="assets/plus.svg" alt="Soma"></button></td>
+            <td><button onclick="toggleSign()"><img src="assets/plusminus.svg" alt="Soma/Subtrair"></button></td>
+            <td><button onclick="insert('0')">0</button></td>
+            <td><button rowspan="2" onclick="insert(',')">,</button></td>
+            <td><button rowspan="2" class="quartiary" onclick="calculate()"><img src="assets/result.svg" alt="Resultado"></button></td>
+        </tr>
+        </div>
+    </div>
+    <script src="calculator.js"></script>
+</body>
+</html>
