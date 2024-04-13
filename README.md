@@ -16,5 +16,5 @@
 
 Jonathan Macedo
 
-https://www.linkedin.com/in/jonathan-macedo-10182b274/
+<a href="https://www.linkedin.com/in/jonathan-macedo-10182b274/" target="blank">
 
