@@ -4,7 +4,7 @@
 
 ##Layout Web
 
-![web] (https://github.com/JonathanMacedo/projeto-calculadora/blob/main/src/imagens/calculadora.png)
+![web](https://github.com/JonathanMacedo/projeto-calculadora/blob/main/src/imagens/calculadora.png)
 
 
 #Tecnologias utilizadas
