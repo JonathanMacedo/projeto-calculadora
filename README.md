@@ -7,6 +7,11 @@
 ![web](https://github.com/JonathanMacedo/projeto-calculadora/blob/main/src/imagens/calculadora.png)
 
 
+
+https://github.com/JonathanMacedo/projeto-calculadora/assets/148797702/a0bc1d32-2149-4330-8cac-3452bf5bbdc8
+
+
+
 #Tecnologias utilizadas
 - HTML
 - CSS
