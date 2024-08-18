@@ -2,7 +2,7 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/JonathanMacedo/projeto-calculadora)
 
-##Layout Web
+## Layout Web
 
 ![web](https://github.com/JonathanMacedo/projeto-calculadora/blob/main/src/imagens/calculadora.png)
 
@@ -12,14 +12,14 @@ https://github.com/JonathanMacedo/projeto-calculadora/assets/148797702/a0bc1d32-
 
 
 
-#Tecnologias utilizadas
+# Tecnologias utilizadas
 - HTML
 - CSS
 - JavaScritp
 
-#Autor
+# Autor
 
-Jonathan Macedo
+## Jonathan Macedo
 
 <a href="https://www.linkedin.com/in/jonathan-macedo-10182b274/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JonathanMacedo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
